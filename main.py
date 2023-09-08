@@ -1,5 +1,4 @@
-# Name: Benjamin Porter, ID: 010371941
-# Traveling Salesman Project - WGU C950 Data Structures and Algorithms 2
+# Name: Benjamin Porter
 from truck import Truck
 from route import calculate_route
 from route import snapshot
