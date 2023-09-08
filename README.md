@@ -4,4 +4,4 @@ Python Logistics Pathfinding Application
 - The csv data is stored in a Hashmamp data structure due to it's O(1) access time.
 - Output creates standard reports as deliveries are executed by trucks:
 
-![](figure_a1.png)
+![](figure_1.png)
