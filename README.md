@@ -1,2 +1,1 @@
-# pathfinder
-Logistics Simulation
+WGU Pathfinding Assignment - Delivery Route Calculator for a Logistics Company
